@@ -6,6 +6,7 @@
 1. [博客 Template](https://github.com/jcyicai/vue-blog-template) （包含 web版、h5版、博客后台管理系统、博客node接口）
 2. [vue-antd-admin](https://github.com/jcyicai/vue-antd-admin) （基于vue3.0 + vue-cli4.0 + vue-router4.x + vuex4.x + ant-design-vue2.x开发的后台管理系统模板）
 3. [vue-antd-admin-vite](https://github.com/jcyicai/vue-antd-admin-vite)（基于vue3.0 + vite + vue-router4.x + vuex4.x + ant-design-vue2.x开发的后台管理系统模板）
+4. [uniapp-uview-template]（基于uniapp + uview1.0 开发的一套开箱即用的项目基础模板）
 
 ## 组件
 
