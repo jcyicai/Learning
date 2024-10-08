@@ -6,7 +6,8 @@
 1. [博客 Template](https://github.com/jcyicai/vue-blog-template) （包含 web版、h5版、博客后台管理系统、博客node接口）
 2. [vue-antd-admin](https://github.com/jcyicai/vue-antd-admin) （基于vue3.0 + vue-cli4.0 + vue-router4.x + vuex4.x + ant-design-vue2.x开发的后台管理系统模板）
 3. [vue-antd-admin-vite](https://github.com/jcyicai/vue-antd-admin-vite)（基于vue3.0 + vite + vue-router4.x + vuex4.x + ant-design-vue2.x开发的后台管理系统模板）
-4. [uniapp-uview-template]（基于uniapp + uview1.0 开发的一套开箱即用的项目基础模板）
+4. [uniapp-uview-template](https://github.com/jcyicai/uniapp-uview-template)（基于uniapp + uview1.0 开发的一套开箱即用的项目基础模板）
+5. [vue-element-plus-admin](https://github.com/jcyicai/vue-element-plus-admin)（基于 vue3.x + vite5.x + element-plus2.x + vue-router4.x + pinia + ts 开发的后台管理系统模板）
 
 ## 组件
 
@@ -27,6 +28,10 @@
 2. [learn-javascript](https://github.com/jcyicai/learn-javascript)（js 练习）
 3. [learn-algorithm](https://github.com/jcyicai/learn-algorithm)（算法 练习）
 4. [Wheels](https://github.com/jcyicai/Wheels)（造轮子）
+
+## 项目
+
+1. [react-antd-admin](https://github.com/jcyicai/react-antd-admin)（基于 react18.x + antd5.x + react-router6.x + zustand4.x + ts 开发的后台管理系统，包含组件封装、菜单按钮权限、地图应用、主题切换、自定义hook等）
 
 ## 其他
 
